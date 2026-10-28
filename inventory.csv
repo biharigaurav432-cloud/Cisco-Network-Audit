@@ -1,0 +1,4 @@
+name,host,device_type
+R1,192.168.58.10,cisco_ios
+R2,192.168.58.11,cisco_ios
+R3,192.168.58.12,cisco_ios

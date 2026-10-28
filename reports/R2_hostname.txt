@@ -1,0 +1,5 @@
+Device: R2
+command: show running-config | include ^hostname
+**************************************************
+hostname R2
+**************************************************

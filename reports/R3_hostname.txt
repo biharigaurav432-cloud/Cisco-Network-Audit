@@ -1,0 +1,5 @@
+Device: R3
+command: show running-config | include ^hostname
+**************************************************
+hostname R3
+**************************************************
