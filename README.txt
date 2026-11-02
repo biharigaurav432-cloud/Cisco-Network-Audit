@@ -162,7 +162,12 @@ The current version includes inventory-based device selection, SSH connectivity,
 
 Additional features can be introduced as the project develops.
 
-## 13. Possible Future Improvements
+## 13. Network Topology
+
+The following diagram represents the EVE-NG network topology used in this Cisco Network Audit Automation project.
+![EVE-NG Network Topology] (eve-ng-topology.jpeg)
+
+## 14. Possible Future Improvements
 
 * Add structured logging and timestamps.
 * Improve validation of command output.
@@ -171,6 +176,6 @@ Additional features can be introduced as the project develops.
 * Add automated tests for successful and failed scenarios.
 * Improve credential management and SSH host-key verification.
 
-## 14. Learning Outcomes
+## 15. Learning Outcomes
 
 Through this project, I practised Python file handling, CSV processing, lists and dictionaries, loops, functions and library usage, SSH-based network automation, exception handling, and automated report generation.
